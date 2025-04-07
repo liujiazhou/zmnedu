@@ -9,15 +9,15 @@
         <div class="button-content">
           <div class="button-icon">👨‍🎓</div>
           <h2>啄木鸟OJ系统</h2>
-          <p>查看课程、完成作业、参与讨论</p>
+          <p>在线刷题、作业提交、专项练习</p>
         </div>
       </a>
       
       <a href="https://dz.zmnedu.cc" target="_blank" class="glass-button teacher-button">
         <div class="button-content">
-          <div class="button-icon">👩‍🏫</div>
+          <div class="button-icon">⌨️</div>
           <h2>啄木鸟打字</h2>
-          <p>管理课程、批改作业、查看统计</p>
+          <p>指法训练、代码记忆、单词学习</p>
         </div>
       </a>
     </div>
